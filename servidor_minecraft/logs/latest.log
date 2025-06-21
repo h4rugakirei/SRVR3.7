@@ -5212,3 +5212,14 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 03:57:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Undead Knight
 [21Jun2025 03:58:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Restless Spirit
 [21Jun2025 04:03:04.535] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 04:07:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Broken Parts II]
+[21Jun2025 04:12:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Sweet Dreams]
+[21Jun2025 04:12:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Sweet Dreams]
+[21Jun2025 04:15:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Scarlet Persecutor
+[21Jun2025 04:26:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Stay dead]
+[21Jun2025 04:26:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Source of Evil]
+[21Jun2025 04:28:43.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Gravedigger]
+[21Jun2025 04:29:48.714] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 04:29:48.715] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 04:31:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Summoned Skeleton
+[21Jun2025 04:38:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Husk

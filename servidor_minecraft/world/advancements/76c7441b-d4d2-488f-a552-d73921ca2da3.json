@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-21 04:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-21 03:59:13 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-06-21 04:12:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -110,6 +122,12 @@
   "ars_nouveau:recipes/misc/ritual_animal_summon": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2025-06-21 04:34:22 +0000"
     },
     "done": true
   },
@@ -134,6 +152,12 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-06-21 02:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-06-21 04:11:41 +0000"
     },
     "done": true
   },
@@ -182,6 +206,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-06-21 04:29:25 +0000"
     },
     "done": true
   },
@@ -317,6 +347,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-21 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-21 04:29:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_mycelium": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -326,6 +368,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-06-21 04:11:41 +0000"
     },
     "done": true
   },
@@ -509,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-06-21 04:11:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -518,6 +572,12 @@
   "ars_nouveau:recipes/misc/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-21 04:12:54 +0000"
     },
     "done": true
   },
@@ -547,10 +607,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-06-21 04:36:31 +0000",
       "minecraft:stray": "2025-06-21 03:40:27 +0000",
       "minecraft:zombie": "2025-06-21 03:17:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-21 04:18:21 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/archwood_chest": {
     "criteria": {
@@ -567,6 +634,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-21 04:34:22 +0000"
     },
     "done": true
   },
@@ -633,6 +706,12 @@
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-06-21 04:12:37 +0000"
     },
     "done": true
   },
@@ -894,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-21 04:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-21 03:35:55 +0000"
@@ -951,6 +1036,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-21 04:18:21 +0000"
     },
     "done": true
   },
@@ -1290,6 +1381,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-21 04:26:36 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -1359,6 +1456,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-06-21 04:07:52 +0000"
     },
     "done": true
   },
@@ -1563,6 +1666,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-06-21 03:02:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-06-21 04:26:42 +0000"
     },
     "done": true
   },
@@ -1848,6 +1957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-21 04:29:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -1944,6 +2059,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-21 04:28:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -1995,6 +2116,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-21 03:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-21 04:29:15 +0000"
     },
     "done": true
   },
@@ -2238,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-21 04:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-06-21 02:18:06 +0000"
@@ -2316,6 +2449,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-21 02:44:59 +0000"
@@ -2388,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-06-21 04:12:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -2430,6 +2575,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-06-21 04:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-21 02:41:40 +0000"
@@ -2466,6 +2617,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-06-21 04:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-21 03:03:23 +0000"
@@ -2487,6 +2644,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:11:41 +0000"
     },
     "done": true
   },
@@ -2589,6 +2752,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:11:41 +0000"
     },
     "done": true
   },
@@ -2757,6 +2926,18 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-21 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-21 04:11:41 +0000"
     },
     "done": true
   },
@@ -3088,14 +3269,17 @@
     "criteria": {
       "minecraft:frozen_river": "2025-06-21 01:48:49 +0000",
       "minecraft:sunflower_plains": "2025-06-21 03:35:27 +0000",
+      "minecraft:bamboo_jungle": "2025-06-21 04:36:03 +0000",
       "minecraft:beach": "2025-06-21 01:59:22 +0000",
       "minecraft:river": "2025-06-21 03:05:41 +0000",
       "minecraft:snowy_plains": "2025-06-21 01:26:07 +0000",
+      "minecraft:stony_shore": "2025-06-21 04:35:00 +0000",
       "minecraft:snowy_taiga": "2025-06-21 01:24:21 +0000",
       "minecraft:cold_ocean": "2025-06-21 01:55:51 +0000",
       "minecraft:forest": "2025-06-21 03:42:44 +0000",
       "minecraft:frozen_ocean": "2025-06-21 01:55:47 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-21 02:38:17 +0000",
+      "minecraft:jungle": "2025-06-21 04:33:46 +0000",
       "minecraft:flower_forest": "2025-06-21 03:12:28 +0000",
       "minecraft:plains": "2025-06-21 01:55:35 +0000"
     },
@@ -3110,6 +3294,12 @@
   "ars_nouveau:recipes/misc/alteration_table": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-21 04:34:22 +0000"
     },
     "done": true
   },
@@ -3164,6 +3354,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-21 03:55:48 +0000",
+      "cooked_mutton": "2025-06-21 04:27:26 +0000",
       "beef": "2025-06-21 03:36:14 +0000",
       "potato": "2025-06-21 03:15:03 +0000",
       "mutton": "2025-06-21 03:16:20 +0000",
@@ -3172,6 +3363,7 @@
       "salmon": "2025-06-21 02:08:15 +0000",
       "melon_slice": "2025-06-21 02:04:59 +0000",
       "golden_carrot": "2025-06-21 03:12:41 +0000",
+      "cooked_chicken": "2025-06-21 04:08:06 +0000",
       "carrot": "2025-06-21 02:28:24 +0000"
     },
     "done": false
