@@ -5208,3 +5208,7 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 03:49:47.165] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [21Jun2025 03:49:47.165] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [21Jun2025 03:50:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 03:54:54.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Nightmare Stalker
+[21Jun2025 03:57:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Undead Knight
+[21Jun2025 03:58:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Restless Spirit
+[21Jun2025 04:03:04.535] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-21 03:06:33 +0000"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-06-21 03:59:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -260,6 +272,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-21 02:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -326,6 +344,12 @@
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -996,6 +1020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-21 03:03:23 +0000"
@@ -1011,6 +1041,12 @@
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -1077,6 +1113,12 @@
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -1470,6 +1512,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-21 03:59:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -1614,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-21 03:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 03:24:47 +0000"
@@ -1671,6 +1725,12 @@
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -1794,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-21 03:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-21 01:45:15 +0000"
@@ -1812,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -1827,6 +1899,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-21 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -1851,6 +1929,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -2001,6 +2085,18 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-21 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -2322,6 +2418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
@@ -2628,6 +2730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-21 03:59:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-06-21 01:46:23 +0000"
@@ -2637,6 +2745,12 @@
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-21 03:59:55 +0000"
     },
     "done": true
   },
@@ -3049,6 +3163,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-21 03:55:48 +0000",
       "beef": "2025-06-21 03:36:14 +0000",
       "potato": "2025-06-21 03:15:03 +0000",
       "mutton": "2025-06-21 03:16:20 +0000",
