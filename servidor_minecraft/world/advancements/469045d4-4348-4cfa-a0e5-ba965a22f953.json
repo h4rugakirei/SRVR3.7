@@ -1982,6 +1982,7 @@
       "baked_potato": "2025-06-21 02:37:33 +0000",
       "potato": "2025-06-21 03:23:59 +0000",
       "bread": "2025-06-21 01:44:54 +0000",
+      "golden_apple": "2025-06-21 07:40:16 +0000",
       "melon_slice": "2025-06-21 04:29:33 +0000",
       "cod": "2025-06-21 03:00:19 +0000"
     },
@@ -2436,6 +2437,7 @@
       "minecraft:pillager": "2025-06-21 02:40:22 +0000",
       "minecraft:skeleton": "2025-06-21 04:54:59 +0000",
       "minecraft:vindicator": "2025-06-21 02:35:49 +0000",
+      "minecraft:spider": "2025-06-21 07:33:07 +0000",
       "minecraft:witch": "2025-06-21 05:48:49 +0000",
       "minecraft:zombie_villager": "2025-06-21 01:57:07 +0000"
     },
@@ -3653,6 +3655,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-21 07:18:24 +0000"
@@ -3692,6 +3700,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-06-21 07:30:51 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-21 07:39:34 +0000"
     },
     "done": true
   },
@@ -3779,6 +3793,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-21 07:18:24 +0000"
@@ -3815,9 +3835,21 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-06-21 07:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-21 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
     },
     "done": true
   },
@@ -3911,6 +3943,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:24:05 +0000"
@@ -3935,9 +3973,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-06-21 07:40:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-21 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
     },
     "done": true
   },
@@ -3968,6 +4018,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-21 07:15:31 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-06-21 07:40:55 +0000"
     },
     "done": true
   },

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "469045d4-4348-4cfa-a0e5-ba965a22f953",
+    "name": "IDetesDI",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "76c7441b-d4d2-488f-a552-d73921ca2da3",
+    "name": "Emilianano",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -9585,3 +9585,17 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 07:30:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Alex's Caves]
 [21Jun2025 07:31:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Once Upon a Cave]
 [21Jun2025 07:33:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Mr. Livia the Special
+[21Jun2025 07:39:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Warped]
+[21Jun2025 07:40:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[21Jun2025 07:40:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made IDetesDI a server operator
+[21Jun2025 07:40:57.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [The Beginning of An Adventure]
+[21Jun2025 07:40:57.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Need A Map?]
+[21Jun2025 07:41:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Emilianano a server operator
+[21Jun2025 07:41:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Spectator Mode]
+[21Jun2025 07:42:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 07:42:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 07:43:58.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Spectator Mode]
+[21Jun2025 07:44:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 07:44:34.483] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[21Jun2025 07:45:10.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Thompson the Questionable'/19427, l='ServerLevel[world]', x=-1028.98, y=-11.00, z=1047.54] died: Thompson the Questionable was slain by IDetesDI
+[21Jun2025 07:45:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Stone Free]
