@@ -15575,3 +15575,41 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 07:45:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Stone Free]
 [21Jun2025 07:45:14.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [21Jun2025 07:45:17.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:46:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Spectator Mode]
+[21Jun2025 07:46:35.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 07:46:36.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 07:46:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 07:46:40.840] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:46:45.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 07:46:46.986] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:47:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was squashed by a falling anvil
+[21Jun2025 07:47:44.613] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:48:20.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Burbpig the Super'/21445, l='ServerLevel[world]', x=-1015.45, y=-8.00, z=962.91] died: Burbpig the Super was slain by IDetesDI
+[21Jun2025 07:48:25.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:48:28.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:49:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Not Today, Thank You]
+[21Jun2025 07:49:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Creeper
+[21Jun2025 07:49:39.751] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:49:41.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:50:37.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 07:50:39.302] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:50:44.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Sir Ettehabgrabjank the Light'/23259, l='ServerLevel[world]', x=-997.69, y=-10.00, z=920.29] died: Sir Ettehabgrabjank the Light was slain by IDetesDI
+[21Jun2025 07:50:48.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 07:51:09.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved wrongly!
+[21Jun2025 07:51:36.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 07:51:36.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 07:51:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano withered away whilst fighting Nightmare Stalker
+[21Jun2025 07:51:49.669] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:52:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Creeper
+[21Jun2025 07:52:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Cave Centipede
+[21Jun2025 07:52:18.860] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-07.52.18.dat
+[21Jun2025 07:52:19.983] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:52:23.373] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 07:53:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Nightmare Stalker
+[21Jun2025 07:53:06.449] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:54:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 07:54:24.869] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:55:57.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Missionary
+[21Jun2025 07:55:58.360] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:56:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Missionary
+[21Jun2025 07:56:14.861] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage

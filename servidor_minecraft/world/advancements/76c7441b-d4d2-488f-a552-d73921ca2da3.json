@@ -1715,6 +1715,7 @@
       "minecraft:sunflower_plains": "2025-06-21 03:35:27 +0000",
       "minecraft:bamboo_jungle": "2025-06-21 04:36:03 +0000",
       "minecraft:beach": "2025-06-21 01:59:22 +0000",
+      "minecraft:stony_peaks": "2025-06-21 07:45:33 +0000",
       "minecraft:sparse_jungle": "2025-06-21 04:49:26 +0000",
       "minecraft:river": "2025-06-21 03:05:41 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 07:24:32 +0000",
@@ -2858,6 +2859,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-21 05:51:26 +0000",
+      "minecraft:skeleton": "2025-06-21 07:51:02 +0000",
       "minecraft:spider": "2025-06-21 07:26:20 +0000",
       "minecraft:husk": "2025-06-21 04:36:31 +0000",
       "minecraft:stray": "2025-06-21 03:40:27 +0000",
@@ -3963,6 +3965,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-21 07:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-06-21 07:24:40 +0000"
@@ -4062,6 +4070,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-21 07:23:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-06-21 07:49:01 +0000"
     },
     "done": true
   },
@@ -4254,6 +4268,12 @@
   "ava:recipes/misc/ceramic": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 07:00:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2025-06-21 07:45:11 +0000"
     },
     "done": true
   },
