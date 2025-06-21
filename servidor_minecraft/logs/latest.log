@@ -5008,3 +5008,25 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 02:49:06.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was turned into KFC by Fire Dragon
 [21Jun2025 02:49:37.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
 [21Jun2025 02:52:21.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 02:54:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 02:54:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Creeper
+[21Jun2025 02:54:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Creeper
+[21Jun2025 02:56:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano went up in flames
+[21Jun2025 02:58:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 02:58:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has completed the challenge [Free Willy]
+[21Jun2025 02:59:50.531] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
+[21Jun2025 02:59:58.186] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
+[21Jun2025 03:00:55.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Sea Serpent
+[21Jun2025 03:01:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 03:02:16.484] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
+[21Jun2025 03:02:46.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Taste the Rainbow]
+[21Jun2025 03:03:02.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Sea Serpent
+[21Jun2025 03:04:28.831] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
+[21Jun2025 03:05:31.966] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/59313, l='ServerLevel[world]', x=-297.50, y=49.00, z=1263.50]
+[21Jun2025 03:06:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Sea Serpent
+[21Jun2025 03:06:41.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-102, y=-58, z=155}
+[21Jun2025 03:07:12.532] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
+[21Jun2025 03:07:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was incinerated by Fire Dragon
+[21Jun2025 03:08:40.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Sea Serpent
+[21Jun2025 03:09:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was incinerated by Fire Dragon
+[21Jun2025 03:11:24.939] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/54125, l='ServerLevel[world]', x=-163.55, y=-4.14, z=1255.24, removed=DISCARDED]
