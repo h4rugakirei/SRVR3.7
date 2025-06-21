@@ -5232,3 +5232,6 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 04:58:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Corpse Fly
 [21Jun2025 05:01:53.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/127085, l='ServerLevel[world]', x=-1610.83, y=73.45, z=1277.19] died: Honeyed Archer suffocated in a wall
 [21Jun2025 05:01:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano hit the ground too hard whilst trying to escape Skeleton
+[21Jun2025 05:18:59.115] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 05:18:59.115] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 05:23:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Isn't It Iron Pick]
