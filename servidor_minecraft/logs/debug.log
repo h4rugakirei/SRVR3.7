@@ -10438,3 +10438,45 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 05:43:38.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 05:43:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
 [21Jun2025 05:43:41.135] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 05:46:20.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jun2025 05:46:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Not a Diamond]
+[21Jun2025 05:47:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:47:15.599] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 05:48:38.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:48:38.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:48:49.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Mother Mickey the Feeble'/137726, l='ServerLevel[world]', x=-1017.98, y=75.00, z=850.02] died: Mother Mickey the Feeble was slain by IDetesDI
+[21Jun2025 05:48:49.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Far From Perfect]
+[21Jun2025 05:48:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [He Wasn't So Strong]
+[21Jun2025 05:49:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:49:06.697] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 05:50:12.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/138700, l='ServerLevel[world]', x=-846.50, y=55.00, z=927.50]
+[21Jun2025 05:50:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [You Are A Pirate]
+[21Jun2025 05:52:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [How'd You Get This?]
+[21Jun2025 05:52:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:52:28.526] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 05:53:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 05:53:09.534] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 05:53:38.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:53:38.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:54:08.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Sea? Not a Problem]
+[21Jun2025 05:54:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [A Throwaway Joke]
+[21Jun2025 05:57:56.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 05:57:57.881] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 05:58:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Fire Dragon
+[21Jun2025 05:58:13.480] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 05:58:38.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:58:38.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:59:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 05:59:06.228] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 06:00:25.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 06:00:26.950] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 06:00:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
+[21Jun2025 06:00:55.104] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 06:02:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
+[21Jun2025 06:02:04.082] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 06:03:38.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 06:03:38.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 06:04:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was incinerated by Fire Dragon
+[21Jun2025 06:04:24.188] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 06:05:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was blown up by Creeper
+[21Jun2025 06:05:09.728] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage

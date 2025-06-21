@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-06-21 05:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 01:47:21 +0000"
@@ -646,9 +652,16 @@
       "minecraft:pillager": "2025-06-21 02:40:22 +0000",
       "minecraft:skeleton": "2025-06-21 04:54:59 +0000",
       "minecraft:vindicator": "2025-06-21 02:35:49 +0000",
+      "minecraft:witch": "2025-06-21 05:48:49 +0000",
       "minecraft:zombie_villager": "2025-06-21 01:57:07 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-21 05:54:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -719,6 +732,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-21 05:46:06 +0000"
     },
     "done": true
   },
@@ -1130,6 +1149,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-21 05:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-21 05:23:08 +0000"
@@ -1334,6 +1359,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-21 05:46:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
@@ -1493,6 +1524,12 @@
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-21 05:48:49 +0000"
     },
     "done": true
   },
@@ -1694,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 05:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-21 02:19:09 +0000"
@@ -1715,6 +1758,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-21 05:23:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-06-21 05:54:12 +0000"
     },
     "done": true
   },
@@ -2273,6 +2322,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-21 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-06-21 05:54:12 +0000"
     },
     "done": true
   },
@@ -3110,6 +3165,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-21 05:48:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-06-21 02:02:27 +0000"
@@ -3248,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-21 05:48:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
@@ -3295,6 +3362,7 @@
       "minecraft:frozen_ocean": "2025-06-21 02:32:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-21 02:34:40 +0000",
       "minecraft:jungle": "2025-06-21 04:48:57 +0000",
+      "minecraft:ocean": "2025-06-21 05:50:13 +0000",
       "minecraft:flower_forest": "2025-06-21 03:31:32 +0000",
       "minecraft:meadow": "2025-06-21 04:06:43 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-21 02:36:59 +0000",
@@ -3420,6 +3488,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-06-21 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-06-21 05:54:12 +0000"
     },
     "done": true
   },

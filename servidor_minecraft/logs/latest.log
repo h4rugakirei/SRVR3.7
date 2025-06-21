@@ -5240,3 +5240,24 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 05:42:48.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
 [21Jun2025 05:43:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Emilianano
 [21Jun2025 05:43:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
+[21Jun2025 05:46:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Not a Diamond]
+[21Jun2025 05:47:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:48:49.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Mother Mickey the Feeble'/137726, l='ServerLevel[world]', x=-1017.98, y=75.00, z=850.02] died: Mother Mickey the Feeble was slain by IDetesDI
+[21Jun2025 05:48:49.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Far From Perfect]
+[21Jun2025 05:48:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [He Wasn't So Strong]
+[21Jun2025 05:49:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:50:12.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/138700, l='ServerLevel[world]', x=-846.50, y=55.00, z=927.50]
+[21Jun2025 05:50:43.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [You Are A Pirate]
+[21Jun2025 05:52:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [How'd You Get This?]
+[21Jun2025 05:52:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 05:53:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 05:54:08.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Sea? Not a Problem]
+[21Jun2025 05:54:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [A Throwaway Joke]
+[21Jun2025 05:57:56.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 05:58:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Fire Dragon
+[21Jun2025 05:59:04.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 06:00:25.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 06:00:54.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
+[21Jun2025 06:02:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
+[21Jun2025 06:04:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was incinerated by Fire Dragon
+[21Jun2025 06:05:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was blown up by Creeper
