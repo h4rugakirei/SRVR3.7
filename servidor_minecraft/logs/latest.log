@@ -9573,3 +9573,15 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 07:20:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Lady Jenbing the Odd-Smelling
 [21Jun2025 07:22:47.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Lady Jenbing the Odd-Smelling'/6665, l='ServerLevel[world]', x=-1092.06, y=4.77, z=945.48] died: Lady Jenbing the Odd-Smelling was slain by IDetesDI
 [21Jun2025 07:24:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Diamonds!]
+[21Jun2025 07:26:08.848] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[21Jun2025 07:26:08.849] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[21Jun2025 07:26:09.198] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Jun2025 07:26:09.199] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Jun2025 07:26:09.247] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Jun2025 07:26:09.259] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Jun2025 07:26:09.339] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[21Jun2025 07:26:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 07:27:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Deceived Hopes]
+[21Jun2025 07:30:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Alex's Caves]
+[21Jun2025 07:31:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Once Upon a Cave]
+[21Jun2025 07:33:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Mr. Livia the Special

@@ -15535,3 +15535,21 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 07:23:07.689] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [21Jun2025 07:23:07.690] [Worker-Main-15/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [21Jun2025 07:24:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Diamonds!]
+[21Jun2025 07:26:08.848] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[21Jun2025 07:26:08.849] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[21Jun2025 07:26:09.198] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Jun2025 07:26:09.199] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Jun2025 07:26:09.247] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Jun2025 07:26:09.259] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Jun2025 07:26:09.339] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[21Jun2025 07:26:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 07:26:36.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 07:26:36.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 07:26:36.366] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 07:27:39.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Deceived Hopes]
+[21Jun2025 07:30:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Alex's Caves]
+[21Jun2025 07:31:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Once Upon a Cave]
+[21Jun2025 07:31:36.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 07:31:36.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 07:33:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Mr. Livia the Special
+[21Jun2025 07:33:21.018] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
