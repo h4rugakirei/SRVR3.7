@@ -10110,3 +10110,8 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 10:59:18.841] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
 [21Jun2025 10:59:18.841] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
 [21Jun2025 10:59:18.841] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[21Jun2025 11:11:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by IDetesDI using NoÃ«l Super Kriss V
+[21Jun2025 11:13:20.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Jeweler]
+[21Jun2025 11:17:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Emilianano using NoÃ«l Super Kriss V
+[21Jun2025 11:17:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Emilianano using NoÃ«l Super Kriss V
+[21Jun2025 11:18:07.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Emilianano using NoÃ«l Super Kriss V

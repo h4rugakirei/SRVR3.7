@@ -4216,6 +4216,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-21 11:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
