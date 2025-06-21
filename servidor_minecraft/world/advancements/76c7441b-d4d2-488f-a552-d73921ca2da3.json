@@ -4025,6 +4025,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-21 08:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-21 07:38:54 +0000"
@@ -4067,6 +4073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 08:30:11 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-06-21 07:24:40 +0000"
@@ -4076,6 +4088,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 08:30:11 +0000"
     },
     "done": true
   },
@@ -4136,6 +4154,12 @@
   "ava:recipes/decorations/gun_modifying_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 07:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-21 08:42:04 +0000"
     },
     "done": true
   },
@@ -4205,6 +4229,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-06-21 08:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-06-21 08:08:17 +0000"
@@ -4223,6 +4253,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-21 08:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
@@ -4232,6 +4268,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-06-21 08:37:01 +0000"
     },
     "done": true
   },
@@ -4289,6 +4331,12 @@
     },
     "done": true
   },
+  "plastic_from_ava:recipes/food/plastic": {
+    "criteria": {
+      "has_leather": "2025-06-21 08:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
@@ -4343,6 +4391,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-21 08:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
@@ -4355,9 +4409,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-21 08:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-21 07:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-21 08:42:04 +0000"
     },
     "done": true
   },
@@ -4370,6 +4436,12 @@
   "ava:recipes/misc/silicon": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 07:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 08:30:11 +0000"
     },
     "done": true
   },

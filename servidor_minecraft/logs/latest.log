@@ -9840,3 +9840,4 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 08:25:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has reached the goal [Flawless Crystals]
 [21Jun2025 08:26:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Skeleton
 [21Jun2025 08:26:54.841] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/52383, l='ServerLevel[world]', x=-2043.34, y=38.62, z=950.27, removed=DISCARDED]
+[21Jun2025 08:33:38.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Mine? Mine? Mine?]
