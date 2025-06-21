@@ -10411,3 +10411,7 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 05:01:56.421] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
 [21Jun2025 05:03:38.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 05:03:38.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:08:38.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:08:38.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:13:38.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:13:38.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
