@@ -5235,3 +5235,5 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 05:18:59.115] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [21Jun2025 05:18:59.115] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [21Jun2025 05:23:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Isn't It Iron Pick]
+[21Jun2025 05:26:45.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1065, y=49, z=848} BlockPos{x=-1065, y=48, z=847}
+[21Jun2025 05:33:15.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Emilianano> wwwwwwwwwwwww
