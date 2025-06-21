@@ -15881,3 +15881,27 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 08:41:36.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 08:46:35.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 08:46:36.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:47:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano tried to swim in lava to escape The Moonflower
+[21Jun2025 08:47:57.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-08.47.57.dat
+[21Jun2025 08:48:02.653] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:51:36.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:51:36.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:52:05.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Become a Mahou Tsukai!]
+[21Jun2025 08:52:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Who You Gonna Call?]
+[21Jun2025 08:53:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Creative Mode]
+[21Jun2025 08:53:25.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Tie me to the Mast]
+[21Jun2025 08:53:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Survival Mode]
+[21Jun2025 08:55:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was incinerated by Fire Dragon
+[21Jun2025 08:55:35.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-08.55.35.dat
+[21Jun2025 08:55:36.306] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:56:35.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:56:36.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:59:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano burned to death
+[21Jun2025 08:59:27.250] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:59:39.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved wrongly!
+[21Jun2025 09:01:35.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 09:01:36.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 09:02:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Fire Dragon
+[21Jun2025 09:02:56.234] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 09:06:35.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 09:06:36.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

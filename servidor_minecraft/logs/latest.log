@@ -9841,3 +9841,15 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 08:26:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Skeleton
 [21Jun2025 08:26:54.841] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/52383, l='ServerLevel[world]', x=-2043.34, y=38.62, z=950.27, removed=DISCARDED]
 [21Jun2025 08:33:38.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Mine? Mine? Mine?]
+[21Jun2025 08:47:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano tried to swim in lava to escape The Moonflower
+[21Jun2025 08:47:57.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-08.47.57.dat
+[21Jun2025 08:52:05.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Become a Mahou Tsukai!]
+[21Jun2025 08:52:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Who You Gonna Call?]
+[21Jun2025 08:53:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Creative Mode]
+[21Jun2025 08:53:25.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Tie me to the Mast]
+[21Jun2025 08:53:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Survival Mode]
+[21Jun2025 08:55:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was incinerated by Fire Dragon
+[21Jun2025 08:55:35.114] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-08.55.35.dat
+[21Jun2025 08:59:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano burned to death
+[21Jun2025 08:59:39.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved wrongly!
+[21Jun2025 09:02:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Fire Dragon
