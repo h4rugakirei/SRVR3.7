@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-21 03:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-21 02:23:04 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-21 02:45:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-06-21 03:36:12 +0000"
     },
     "done": true
   },
@@ -610,6 +622,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-06-21 01:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-21 03:43:20 +0000"
     },
     "done": true
   },
@@ -1369,6 +1387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-21 03:30:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
@@ -1570,6 +1594,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-21 03:30:04 +0000"
     },
     "done": true
   },
@@ -1879,6 +1909,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-21 03:29:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
@@ -2146,6 +2182,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-21 01:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-21 03:43:20 +0000"
     },
     "done": true
   },
@@ -2872,13 +2914,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-21 01:53:33 +0000",
+      "minecraft:sunflower_plains": "2025-06-21 03:29:56 +0000",
       "minecraft:beach": "2025-06-21 01:46:43 +0000",
+      "minecraft:river": "2025-06-21 03:26:21 +0000",
       "minecraft:snowy_plains": "2025-06-21 01:24:14 +0000",
       "minecraft:snowy_taiga": "2025-06-21 01:24:00 +0000",
       "minecraft:cold_ocean": "2025-06-21 02:59:12 +0000",
+      "minecraft:forest": "2025-06-21 03:38:17 +0000",
       "minecraft:deep_cold_ocean": "2025-06-21 03:10:21 +0000",
       "minecraft:frozen_ocean": "2025-06-21 02:32:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-21 02:34:40 +0000",
+      "minecraft:flower_forest": "2025-06-21 03:31:32 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-21 02:36:59 +0000",
       "minecraft:plains": "2025-06-21 01:34:02 +0000"
     },
@@ -2956,6 +3002,7 @@
       "cooked_mutton": "2025-06-21 01:42:28 +0000",
       "cooked_beef": "2025-06-21 02:40:55 +0000",
       "baked_potato": "2025-06-21 02:37:33 +0000",
+      "potato": "2025-06-21 03:23:59 +0000",
       "bread": "2025-06-21 01:44:54 +0000",
       "cod": "2025-06-21 03:00:19 +0000"
     },
