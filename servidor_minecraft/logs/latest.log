@@ -9853,3 +9853,250 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 08:59:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano burned to death
 [21Jun2025 08:59:39.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved wrongly!
 [21Jun2025 09:02:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Fire Dragon
+[21Jun2025 09:11:07.062] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[21Jun2025 09:11:07.062] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[21Jun2025 09:11:07.062] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[21Jun2025 09:11:08.297] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[21Jun2025 09:11:08.308] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[21Jun2025 09:11:08.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[21Jun2025 09:11:08.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[21Jun2025 09:11:08.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[21Jun2025 09:11:08.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[21Jun2025 09:11:09.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[21Jun2025 09:11:10.190] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=29, z=-1205}
+[21Jun2025 09:11:14.667] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[21Jun2025 09:11:14.806] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=25, z=-1225}
+[21Jun2025 09:11:14.806] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=25, z=-1227}
+[21Jun2025 09:11:14.806] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=27, z=-1221}
+[21Jun2025 09:11:16.350] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
+[21Jun2025 09:11:16.350] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
+[21Jun2025 09:11:18.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85700, l='ServerLevel[world]', x=-140.63, y=80.00, z=-290.28] died, message: 'Unemployed suffocated in a wall'
+[21Jun2025 09:11:28.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85934, l='ServerLevel[world]', x=-184.46, y=65.00, z=-380.48] died, message: 'Unemployed suffocated in a wall'
+[21Jun2025 09:13:56.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[21Jun2025 09:13:56.157] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[21Jun2025 09:13:56.185] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[21Jun2025 09:13:58.395] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[21Jun2025 09:13:58.415] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[21Jun2025 09:16:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [The Lighthouse]
+[21Jun2025 09:18:11.876] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[21Jun2025 09:18:11.876] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[21Jun2025 09:18:11.876] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[21Jun2025 09:18:11.885] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[21Jun2025 09:18:11.897] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[21Jun2025 09:18:11.897] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[21Jun2025 09:18:12.998] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[21Jun2025 09:18:13.010] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[21Jun2025 09:18:13.025] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[21Jun2025 09:18:13.030] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[21Jun2025 09:19:49.826] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-45, z=-13}
+[21Jun2025 09:19:58.878] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[21Jun2025 09:20:10.179] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[21Jun2025 09:21:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI experienced kinetic energy
+[21Jun2025 09:21:41.077] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-09.21.41.dat
+[21Jun2025 09:22:37.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Zombie
+[21Jun2025 09:22:37.568] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-09.22.37.dat
+[21Jun2025 09:23:02.082] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:23:52.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:23:59.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:23:59.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:24:00.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:24:02.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:26:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Cursed Pyramid]
+[21Jun2025 09:26:26.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:26:28.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:28:25.240] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:28:25.241] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:28:52.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! 5.719981296888591,-1.8241829447505609,16.301715277581025
+[21Jun2025 09:28:52.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[21Jun2025 09:28:58.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:29:33.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:29:41.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:29:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Tie me to the Mast]
+[21Jun2025 09:30:10.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:30:16.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:32:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 09:32:20.562] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-09.32.20.dat
+[21Jun2025 09:33:56.394] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:34:30.293] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[21Jun2025 09:34:30.293] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[21Jun2025 09:34:30.303] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[21Jun2025 09:34:30.303] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[21Jun2025 09:34:31.356] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[21Jun2025 09:34:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Dragonslayer]
+[21Jun2025 09:35:34.158] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:36:17.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -4.8893210702836996,-2.489131099897932,-18.13938177743421
+[21Jun2025 09:36:23.573] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[21Jun2025 09:36:23.690] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[21Jun2025 09:36:23.690] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[21Jun2025 09:37:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 09:37:00.126] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-09.37.00.dat
+[21Jun2025 09:37:22.883] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jun2025 09:37:22.885] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jun2025 09:37:23.828] [Worker-Main-77/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jun2025 09:38:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Death Worm
+[21Jun2025 09:38:58.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Desert Swimmers]
+[21Jun2025 09:43:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Tools of the Trade]
+[21Jun2025 09:43:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has reached the goal [Quaint Scribe]
+[21Jun2025 09:44:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Scorpion
+[21Jun2025 09:44:02.110] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-09.44.02.dat
+[21Jun2025 09:45:27.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Corrupting the Paradise]
+[21Jun2025 09:46:23.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was stomped by Apothecarist
+[21Jun2025 09:46:23.818] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Emilianano with unique ID travelersbackpack.standard_21.06.2025-09.46.23.dat
+[21Jun2025 09:46:23.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [The Desert Swimmers]
+[21Jun2025 09:52:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Invitation to the Tea Party]
+[21Jun2025 09:53:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Invitation to the Tea Party]
+[21Jun2025 09:56:21.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:56:23.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:56:24.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 09:56:52.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Cursed Pyramid]
+[21Jun2025 09:59:29.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Koboleton
+[21Jun2025 09:59:29.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-09.59.29.dat
+[21Jun2025 10:00:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Kobolediator
+[21Jun2025 10:00:48.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.00.48.dat
+[21Jun2025 10:01:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI experienced kinetic energy whilst trying to escape Koboleton
+[21Jun2025 10:01:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 10:01:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:02:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:02:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:02:56.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:03:10.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:03:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was doomed to fall by Koboleton
+[21Jun2025 10:03:11.051] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.03.11.dat
+[21Jun2025 10:03:23.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved wrongly!
+[21Jun2025 10:03:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:03:34.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:04:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Koboleton
+[21Jun2025 10:04:03.657] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.04.03.dat
+[21Jun2025 10:04:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Kobolediator
+[21Jun2025 10:04:35.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Kobolediator
+[21Jun2025 10:04:47.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Wadjet
+[21Jun2025 10:05:01.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Kobolediator
+[21Jun2025 10:05:10.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:11.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:12.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:16.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:18.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:05:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Kobolediator
+[21Jun2025 10:05:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 10:05:40.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:05:52.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Creative Mode]
+[21Jun2025 10:06:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 10:06:19.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Captured!]
+[21Jun2025 10:06:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Survival Mode]
+[21Jun2025 10:07:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[21Jun2025 10:07:03.446] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.07.03.dat
+[21Jun2025 10:07:18.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:07:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Creative Mode]
+[21Jun2025 10:08:18.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Survival Mode]
+[21Jun2025 10:09:40.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Beginning of An Adventure]
+[21Jun2025 10:09:40.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Fortune Seeker]
+[21Jun2025 10:10:55.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/163937, l='ServerLevel[world]', x=-2115.66, y=85.00, z=-2403.32] died, message: 'Farmer was slain by The Moonflower'
+[21Jun2025 10:12:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano burned to death
+[21Jun2025 10:13:02.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/163883, l='ServerLevel[world]', x=-2107.54, y=86.00, z=-2407.43] died, message: 'Farmer hit the ground too hard'
+[21Jun2025 10:13:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was doomed to fall by Wadjet
+[21Jun2025 10:13:31.990] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.13.31.dat
+[21Jun2025 10:13:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:14:24.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Kobolediator
+[21Jun2025 10:14:46.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano walked into fire whilst fighting Koboleton
+[21Jun2025 10:14:50.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/167903, l='ServerLevel[world]', x=-2067.85, y=92.00, z=-2474.97] died, message: 'Unemployed was shot by entity.cataclysm.poison_dart'
+[21Jun2025 10:14:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Koboleton
+[21Jun2025 10:15:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Creative Mode]
+[21Jun2025 10:15:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emilianano: Set own game mode to Survival Mode]
+[21Jun2025 10:22:56.320] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[21Jun2025 10:23:02.810] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[21Jun2025 10:23:02.810] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[21Jun2025 10:23:02.810] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[21Jun2025 10:23:02.827] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[21Jun2025 10:23:07.265] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[21Jun2025 10:23:07.265] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[21Jun2025 10:23:07.274] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[21Jun2025 10:23:07.274] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[21Jun2025 10:23:07.302] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[21Jun2025 10:23:07.303] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[21Jun2025 10:23:09.652] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[21Jun2025 10:23:09.666] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[21Jun2025 10:23:09.667] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[21Jun2025 10:23:09.667] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[21Jun2025 10:23:09.667] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[21Jun2025 10:23:22.583] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[21Jun2025 10:23:22.618] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[21Jun2025 10:23:22.618] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[21Jun2025 10:23:22.618] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[21Jun2025 10:23:22.618] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[21Jun2025 10:23:22.618] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[21Jun2025 10:23:22.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[21Jun2025 10:23:22.669] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[21Jun2025 10:23:24.332] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[21Jun2025 10:23:28.961] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[21Jun2025 10:23:32.538] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[21Jun2025 10:23:32.667] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[21Jun2025 10:23:32.683] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[21Jun2025 10:23:32.683] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[21Jun2025 10:23:35.178] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[21Jun2025 10:23:35.179] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[21Jun2025 10:23:35.179] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[21Jun2025 10:23:35.254] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[21Jun2025 10:23:35.254] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[21Jun2025 10:23:35.255] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[21Jun2025 10:23:35.284] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[21Jun2025 10:23:35.285] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[21Jun2025 10:23:35.285] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[21Jun2025 10:23:35.285] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[21Jun2025 10:23:35.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[21Jun2025 10:23:48.082] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[21Jun2025 10:23:48.082] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[21Jun2025 10:23:48.082] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[21Jun2025 10:23:48.082] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[21Jun2025 10:23:48.093] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[21Jun2025 10:23:48.093] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[21Jun2025 10:23:48.320] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[21Jun2025 10:23:48.336] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[21Jun2025 10:23:48.337] [Worker-Main-77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[21Jun2025 10:23:48.342] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[21Jun2025 10:23:49.604] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[21Jun2025 10:23:49.752] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[21Jun2025 10:23:49.752] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[21Jun2025 10:23:57.710] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jun2025 10:23:57.711] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jun2025 10:25:39.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/176085, l='ServerLevel[world]', x=-2224.50, y=67.00, z=-1432.30] died, message: 'Unemployed went up in flames'
+[21Jun2025 10:27:48.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Night Night]
+[21Jun2025 10:29:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 10:30:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was energized by Lightning Dragon
+[21Jun2025 10:31:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was energized by Lightning Dragon
+[21Jun2025 10:31:48.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was energized by Lightning Dragon
+[21Jun2025 10:32:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Lightning Dragon
+[21Jun2025 10:32:52.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was struck with lightning by Lightning Dragon
+[21Jun2025 10:33:23.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano burned to death
+[21Jun2025 10:33:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 10:33:41.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/167902, l='ServerLevel[world]', x=-2068.12, y=92.38, z=-2476.02] died, message: 'Farmer was shot by entity.cataclysm.poison_dart'
+[21Jun2025 10:33:44.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! 8.339142245625453,-1.7091083265152207,15.89986896573373
+[21Jun2025 10:35:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Bakuretsu, Bakuretsu..]
+[21Jun2025 10:36:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Martha the Mighty using [Martha's Elven Flatbow of the Current]
+[21Jun2025 10:37:12.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -6.805649179017337,15.039891335738986,-7.063280994067611
+[21Jun2025 10:38:26.168] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2202, y=-13, z=-1007}
+[21Jun2025 10:40:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 10:44:29.799] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 10:44:29.799] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 10:45:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 10:47:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Night Night]
+[21Jun2025 10:47:54.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was doomed to fall by The Somnolence
+[21Jun2025 10:47:54.985] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-10.47.54.dat
+[21Jun2025 10:48:00.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano died from life stealing
+[21Jun2025 10:48:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano liquified to Fanta juice
+[21Jun2025 10:49:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[21Jun2025 10:50:46.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Zombie Bruiser
+[21Jun2025 10:51:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by The Horrors
+[21Jun2025 10:51:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 10:51:27.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! 4.603714942932129,-4.007533073425293,11.308396339416504
+[21Jun2025 10:51:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was doomed to fall
+[21Jun2025 10:51:47.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Skeleton Thrasher
+[21Jun2025 10:52:59.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 10:53:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [My Bald Satanic Goth Girl Friend]
+[21Jun2025 10:53:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [First big catch of the month!]
+[21Jun2025 10:53:29.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 10:55:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Siren
+[21Jun2025 10:56:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 10:56:41.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
+[21Jun2025 10:57:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 10:57:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sea Serpent
