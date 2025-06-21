@@ -5261,3 +5261,36 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 06:02:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Fire Dragon
 [21Jun2025 06:04:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was incinerated by Fire Dragon
 [21Jun2025 06:05:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was blown up by Creeper
+[21Jun2025 06:07:29.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano lost connection: Disconnected
+[21Jun2025 06:07:29.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano left the game
+[21Jun2025 06:07:42.065] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 06:07:42.065] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 06:07:51.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was turned into KFC by Fire Dragon
+[21Jun2025 06:11:05.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI lost connection: Disconnected
+[21Jun2025 06:11:05.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI left the game
+[21Jun2025 06:11:10.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 06:11:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 06:11:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 06:11:10.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 06:11:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 06:11:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[21Jun2025 06:11:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[21Jun2025 06:11:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[21Jun2025 06:11:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 06:11:11.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:spectral_world
+[21Jun2025 06:11:11.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[21Jun2025 06:11:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 06:11:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[21Jun2025 06:11:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spectral_world): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Jun2025 06:11:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 06:11:11.877] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
