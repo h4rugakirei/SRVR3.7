@@ -15613,3 +15613,262 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 07:55:58.360] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
 [21Jun2025 07:56:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Missionary
 [21Jun2025 07:56:14.861] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:56:35.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 07:56:36.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 07:56:41.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Missionary
+[21Jun2025 07:56:42.451] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:57:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 07:57:52.151] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:58:29.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano discovered the floor was lava
+[21Jun2025 07:58:31.062] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:58:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 07:59:00.860] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 07:59:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 07:59:46.603] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:00:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:00:37.335] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:00:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:01:00.566] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:01:09.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:01:10.581] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:01:28.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:01:31.019] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:01:36.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:01:36.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:02:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:02:37.125] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:02:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:02:46.341] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:03:31.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:03:33.602] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:03:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Creative Mode]
+[21Jun2025 08:03:57.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:04:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set own game mode to Survival Mode]
+[21Jun2025 08:04:05.860] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:05:12.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:05:15.136] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:05:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:05:28.799] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:06:05.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [Free Willy]
+[21Jun2025 08:06:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Vampire Slayer]
+[21Jun2025 08:06:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Vindicator
+[21Jun2025 08:06:34.717] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-08.06.34.dat
+[21Jun2025 08:06:35.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:06:36.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:06:37.755] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 08:11:36.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:11:36.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:11:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:11:52.813] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:11:56.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Vindicator
+[21Jun2025 08:11:56.010] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for IDetesDI with unique ID travelersbackpack.standard_21.06.2025-08.11.56.dat
+[21Jun2025 08:11:57.884] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 08:12:03.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:12:05.772] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:12:22.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:12:25.978] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:12:41.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:41.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:42.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:46.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:47.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:48.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.354] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:49.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:50.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.354] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:51.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.354] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:52.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:54.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:54.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:54.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:55.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:56.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:57.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:58.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:12:59.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:00.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:01.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:02.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:03.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:04.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:05.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:06.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:07.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:07.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:07.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:13:07.354] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 08:16:36.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:16:36.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:18:02.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[21Jun2025 08:18:04.177] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:18:11.394] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/52383, l='ServerLevel[world]', x=-2043.34, y=38.62, z=950.27, removed=DISCARDED]
+[21Jun2025 08:21:36.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:21:36.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:25:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has reached the goal [Flawless Crystals]
+[21Jun2025 08:26:35.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 08:26:36.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 08:26:39.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Skeleton
+[21Jun2025 08:26:41.061] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 08:26:54.841] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/52383, l='ServerLevel[world]', x=-2043.34, y=38.62, z=950.27, removed=DISCARDED]
