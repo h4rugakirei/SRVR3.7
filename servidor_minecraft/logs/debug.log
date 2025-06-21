@@ -10387,3 +10387,27 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 04:38:38.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 04:43:38.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jun2025 04:43:38.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:44:45.476] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 04:46:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Broken Parts II]
+[21Jun2025 04:48:38.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:48:38.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:50:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Husk
+[21Jun2025 04:50:15.261] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 04:51:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was doomed to fall by Husk
+[21Jun2025 04:52:23.127] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 04:52:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 04:52:40.859] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 04:53:38.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:53:38.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:56:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 04:56:06.790] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 04:56:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Mine? Mine? Mine?]
+[21Jun2025 04:58:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Corpse Fly
+[21Jun2025 04:58:17.690] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 04:58:38.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:58:38.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 05:01:53.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/127085, l='ServerLevel[world]', x=-1610.83, y=73.45, z=1277.19] died: Honeyed Archer suffocated in a wall
+[21Jun2025 05:01:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano hit the ground too hard whilst trying to escape Skeleton
+[21Jun2025 05:01:56.421] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 05:03:38.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 05:03:38.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

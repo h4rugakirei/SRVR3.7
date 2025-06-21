@@ -5223,3 +5223,12 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 04:29:48.715] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [21Jun2025 04:31:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was burnt to a crisp whilst fighting Summoned Skeleton
 [21Jun2025 04:38:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Husk
+[21Jun2025 04:46:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Broken Parts II]
+[21Jun2025 04:50:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Husk
+[21Jun2025 04:51:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was doomed to fall by Husk
+[21Jun2025 04:52:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 04:56:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was shot by Skeleton
+[21Jun2025 04:56:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Mine? Mine? Mine?]
+[21Jun2025 04:58:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Corpse Fly
+[21Jun2025 05:01:53.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/127085, l='ServerLevel[world]', x=-1610.83, y=73.45, z=1277.19] died: Honeyed Archer suffocated in a wall
+[21Jun2025 05:01:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano hit the ground too hard whilst trying to escape Skeleton

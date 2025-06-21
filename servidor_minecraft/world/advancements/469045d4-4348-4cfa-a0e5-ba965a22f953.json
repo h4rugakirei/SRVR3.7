@@ -626,6 +626,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-21 02:40:22 +0000",
+      "minecraft:skeleton": "2025-06-21 04:54:59 +0000",
       "minecraft:vindicator": "2025-06-21 02:35:49 +0000",
       "minecraft:zombie_villager": "2025-06-21 01:57:07 +0000"
     },
@@ -1474,6 +1475,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-21 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-06-21 04:46:40 +0000"
     },
     "done": true
   },
@@ -3095,16 +3102,19 @@
     "criteria": {
       "minecraft:frozen_river": "2025-06-21 01:53:33 +0000",
       "minecraft:sunflower_plains": "2025-06-21 03:29:56 +0000",
+      "minecraft:bamboo_jungle": "2025-06-21 04:49:21 +0000",
       "minecraft:beach": "2025-06-21 01:46:43 +0000",
       "minecraft:sparse_jungle": "2025-06-21 04:14:23 +0000",
       "minecraft:river": "2025-06-21 03:26:21 +0000",
       "minecraft:snowy_plains": "2025-06-21 01:24:14 +0000",
+      "minecraft:stony_shore": "2025-06-21 04:48:50 +0000",
       "minecraft:snowy_taiga": "2025-06-21 01:24:00 +0000",
       "minecraft:cold_ocean": "2025-06-21 02:59:12 +0000",
       "minecraft:forest": "2025-06-21 03:38:17 +0000",
       "minecraft:deep_cold_ocean": "2025-06-21 03:10:21 +0000",
       "minecraft:frozen_ocean": "2025-06-21 02:32:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-21 02:34:40 +0000",
+      "minecraft:jungle": "2025-06-21 04:48:57 +0000",
       "minecraft:flower_forest": "2025-06-21 03:31:32 +0000",
       "minecraft:meadow": "2025-06-21 04:06:43 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-21 02:36:59 +0000",
