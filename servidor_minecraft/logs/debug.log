@@ -9963,3 +9963,109 @@ java.lang.NullPointerException: Element not found: amount
 [21Jun2025 01:52:33.604] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
 [21Jun2025 01:52:52.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Iron Golem
 [21Jun2025 01:52:53.768] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 01:53:32.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 01:53:32.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 01:56:05.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Suit Up]
+[21Jun2025 01:56:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Dread Scuttler
+[21Jun2025 01:56:08.543] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 01:56:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Iron Golem
+[21Jun2025 01:56:21.051] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 01:56:50.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/12089, l='ServerLevel[world]', x=-275.41, y=70.00, z=784.67] died, message: 'Scribe was slain by Equestrian'
+[21Jun2025 01:57:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Monster Hunter]
+[21Jun2025 01:57:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano died whilst trying to escape The Spitter
+[21Jun2025 01:57:36.196] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 01:57:37.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/12012, l='ServerLevel[world]', x=-348.70, y=73.42, z=807.17] died, message: 'Mason went up in flames'
+[21Jun2025 01:58:32.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 01:58:32.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 01:58:49.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 01:59:07.365] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 01:59:07.366] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 01:59:48.912] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:00:11.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Not a Diamond]
+[21Jun2025 02:01:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[21Jun2025 02:01:11.044] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:03:04.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:03:07.341] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:03:32.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:03:32.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:05:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was burnt to a crisp whilst fighting Fire Dragon
+[21Jun2025 02:05:11.591] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:05:51.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was burnt to a crisp whilst fighting Fire Dragon
+[21Jun2025 02:05:52.475] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:07:05.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Suit Up]
+[21Jun2025 02:07:26.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Knight
+[21Jun2025 02:07:28.977] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:08:08.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Honeyed Archer'/15506, l='ServerLevel[world]', x=-206.60, y=98.18, z=745.71] died: Honeyed Archer burned to death
+[21Jun2025 02:08:08.818] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Jun2025 02:08:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:08:19.672] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:08:32.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:08:32.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:09:35.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:09:39.557] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:11:12.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:11:14.795] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:12:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:12:03.894] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:13:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Rotten to the Core]
+[21Jun2025 02:13:27.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by The Swarmer
+[21Jun2025 02:13:28.442] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:13:32.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:13:32.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:14:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Beast
+[21Jun2025 02:14:32.411] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:14:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI withered away whilst fighting Nightmare Stalker
+[21Jun2025 02:14:51.001] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:14:53.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Siamese Skeletons
+[21Jun2025 02:14:56.005] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:15:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Dark Vortex
+[21Jun2025 02:15:22.528] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:15:54.016] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Jun2025 02:15:54.017] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Jun2025 02:16:04.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/17448, l='ServerLevel[world]', x=-266.48, y=68.00, z=766.01] died, message: 'Scribe was slain by Zombie Bruiser'
+[21Jun2025 02:16:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was killed by Orlando's magic missile
+[21Jun2025 02:16:31.573] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:17:24.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Jun2025 02:18:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Knight
+[21Jun2025 02:18:19.717] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:18:32.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:18:32.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:20:14.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Knight
+[21Jun2025 02:20:19.276] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:21:02.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/29582, l='ServerLevel[world]', x=-269.52, y=67.00, z=766.32] died, message: 'Scribe burned to death'
+[21Jun2025 02:21:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Tusklin
+[21Jun2025 02:21:58.010] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:22:01.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/29581, l='ServerLevel[world]', x=-262.51, y=69.17, z=763.02] died, message: 'Farmer went up in flames'
+[21Jun2025 02:23:00.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Tusklin
+[21Jun2025 02:23:02.600] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:23:32.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:23:32.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:24:23.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29570, l='ServerLevel[world]', x=-352.30, y=61.94, z=753.50] died, message: 'Unemployed was incinerated by Fire Dragon'
+[21Jun2025 02:24:27.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29571, l='ServerLevel[world]', x=-349.27, y=62.00, z=756.59] died, message: 'Unemployed was slain by Fire Dragon'
+[21Jun2025 02:28:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Dread Knight
+[21Jun2025 02:28:20.066] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:28:32.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:28:32.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:28:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Dread Beast
+[21Jun2025 02:28:56.265] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:29:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Dread Beast
+[21Jun2025 02:29:11.831] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:31:26.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29695, l='ServerLevel[world]', x=-285.75, y=70.24, z=779.97] died, message: 'Unemployed was slain by Dread Beast'
+[21Jun2025 02:33:32.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:33:32.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:35:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [You Are A Pirate]
+[21Jun2025 02:35:50.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Vindicator
+[21Jun2025 02:35:53.781] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (469045d4-4348-4cfa-a0e5-ba965a22f953) respawned and received items held in storage
+[21Jun2025 02:38:32.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:38:32.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 02:39:14.735] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/37124, l='ServerLevel[world]', x=-192.57, y=49.08, z=1118.73]
+[21Jun2025 02:39:14.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/37125, l='ServerLevel[world]', x=-192.57, y=49.08, z=1118.73]
+[21Jun2025 02:39:14.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/37126, l='ServerLevel[world]', x=-192.57, y=49.08, z=1118.73]
+[21Jun2025 02:39:14.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/37127, l='ServerLevel[world]', x=-192.57, y=49.08, z=1118.73]
+[21Jun2025 02:39:14.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/37128, l='ServerLevel[world]', x=-192.57, y=49.08, z=1118.73]
+[21Jun2025 02:41:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Alex's Caves]
+[21Jun2025 02:41:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [It Belongs in a Museum]
+[21Jun2025 02:41:42.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Once Upon a Cave]
+[21Jun2025 02:42:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano drowned
+[21Jun2025 02:42:43.331] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (76c7441b-d4d2-488f-a552-d73921ca2da3) respawned and received items held in storage
+[21Jun2025 02:43:13.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Diamonds!]
